@@ -1,0 +1,670 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-19T15:02:10.015-07:00
+  initializedAtString: 2020-03-19T14:44:35.350-07:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/.DS_Store
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/CameraMotion.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/CameraMotion.cs
+    projectPath: Assets/CameraMotion.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/CameraMotion.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/CameraMotion.cs.meta
+    projectPath: Assets/CameraMotion.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/cubemat.mat
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/cubemat.mat
+    projectPath: Assets/cubemat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/cubemat.mat.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/cubemat.mat.meta
+    projectPath: Assets/cubemat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/OpenCVFaceDetection.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/OpenCVFaceDetection.cs
+    projectPath: Assets/OpenCVFaceDetection.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/OpenCVFaceDetection.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/OpenCVFaceDetection.cs.meta
+    projectPath: Assets/OpenCVFaceDetection.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/playermat.mat
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/playermat.mat
+    projectPath: Assets/playermat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/playermat.mat.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/playermat.mat.meta
+    projectPath: Assets/playermat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/playerMovement.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/playerMovement.cs
+    projectPath: Assets/playerMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/playerMovement.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/playerMovement.cs.meta
+    projectPath: Assets/playerMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature/CodeResources
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature/CodeResources
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature/CodeResources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature/CodeResources.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature/CodeResources.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/_CodeSignature/CodeResources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/Info.plist
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/Info.plist
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/Info.plist
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/Info.plist.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/Info.plist.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/Info.plist.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/MacOS.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/MacOS.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/MacOS.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/MacOS/TestPlugin
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/MacOS/TestPlugin
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/MacOS/TestPlugin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/TestPlugin.bundle/Contents/MacOS/TestPlugin.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Plugins/TestPlugin.bundle/Contents/MacOS/TestPlugin.meta
+    projectPath: Assets/Plugins/TestPlugin.bundle/Contents/MacOS/TestPlugin.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/PositionAtFaceScreenSpace.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/PositionAtFaceScreenSpace.cs
+    projectPath: Assets/PositionAtFaceScreenSpace.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/PositionAtFaceScreenSpace.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/PositionAtFaceScreenSpace.cs.meta
+    projectPath: Assets/PositionAtFaceScreenSpace.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes.meta
+    projectPath: Assets/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/inside box.unity
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes/inside
+      box.unity
+    projectPath: Assets/Scenes/inside box.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/inside box.unity.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes/inside
+      box.unity.meta
+    projectPath: Assets/Scenes/inside box.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/outside boxes.unity
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes/outside
+      boxes.unity
+    projectPath: Assets/Scenes/outside boxes.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/outside boxes.unity.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes/outside
+      boxes.unity.meta
+    projectPath: Assets/Scenes/outside boxes.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/smallscene.unity
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes/smallscene.unity
+    projectPath: Assets/Scenes/smallscene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/smallscene.unity.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Scenes/smallscene.unity.meta
+    projectPath: Assets/Scenes/smallscene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/test2.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/test2.cs
+    projectPath: Assets/test2.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/test2.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/test2.cs.meta
+    projectPath: Assets/test2.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/testCPP.cs
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/testCPP.cs
+    projectPath: Assets/testCPP.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/testCPP.cs.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/testCPP.cs.meta
+    projectPath: Assets/testCPP.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tracker-Test-Scene.unity
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Tracker-Test-Scene.unity
+    projectPath: Assets/Tracker-Test-Scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Tracker-Test-Scene.unity.meta
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Assets/Tracker-Test-Scene.unity.meta
+    projectPath: Assets/Tracker-Test-Scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: lbpcascade_frontalface.xml
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/lbpcascade_frontalface.xml
+    projectPath: lbpcascade_frontalface.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/manifest.json
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/AudioManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/AudioManager.asset
+    projectPath: ProjectSettings/AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ClusterInputManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/ClusterInputManager.asset
+    projectPath: ProjectSettings/ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/DynamicsManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/DynamicsManager.asset
+    projectPath: ProjectSettings/DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorSettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/EditorSettings.asset
+    projectPath: ProjectSettings/EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/GraphicsSettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/GraphicsSettings.asset
+    projectPath: ProjectSettings/GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NavMeshAreas.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/NavMeshAreas.asset
+    projectPath: ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NetworkManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/NetworkManager.asset
+    projectPath: ProjectSettings/NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Physics2DSettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/Physics2DSettings.asset
+    projectPath: ProjectSettings/Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/PresetManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/PresetManager.asset
+    projectPath: ProjectSettings/PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TimeManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/TimeManager.asset
+    projectPath: ProjectSettings/TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/VFXManager.asset
+    fullPath: /Users/trevorchan/Documents/Unity/New Unity Project2/ProjectSettings/VFXManager.asset
+    projectPath: ProjectSettings/VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
